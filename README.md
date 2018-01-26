@@ -6,16 +6,16 @@ This is a plugin for [EDMC](https://github.com/Marginal/EDMarketConnector) wrote
 ## Requirements
 
 * You have to be in Hussar rank or above on The Winged Hussars forum, and you need to generate an API key for your account
-* You need an [EDMC](https://github.com/Marginal/EDMarketConnector) application installed
+* You need an [EDMC](https://github.com/Marginal/EDMarketConnector) installed
 
 ## Installation
 
 * YOU NEED TO HAVE AN ACCOUNT ON THE WINGED HUSSARS FORUM IN HUSSAR RANK OR ABOVE!
-* YOU HAVE TO INSTALL AN [EDMC APPLICATION](https://github.com/Marginal/EDMarketConnector) FIRST!
+* YOU HAVE TO INSTALL AN [EDMC](https://github.com/Marginal/EDMarketConnector) FIRST!
 * Download the [latest plugin release](https://github.com/ryczypior/the-winged-hussars-plugin-for-edmc/releases/download/1.11/twh.zip)
 * Extract ZIP archive (with folders) to your EDMC plugin folder
     - for MS Windows: %LOCALAPPDATA%\EDMarketConnector\plugins (eg. C:\Users\YOURWINDOWSACCOUNT\AppData\Local\EDMarketConnector\plugins\)
     - for MAC: ~/Library/Application Support/EDMarketConnector/plugins/
 * You should see %LOCALAPPDATA%\EDMarketConnector\plugins\twh\load.py file for MS Windows or ~/Library/Application Support/EDMarketConnector/plugins/twh/load.py for MAC
-* After you run EDMC application you should go to the Settings and in TWH card you have to enter your forum's username and generated API key
+* After you run EDMC you should go to the Settings and in TWH card you have to enter your forum username and generated API key
 * If it's done, you should see the status for TWH plugin - time with "Online" in description
